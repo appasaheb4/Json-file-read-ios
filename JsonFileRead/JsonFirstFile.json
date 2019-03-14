@@ -1,0 +1,26 @@
+{
+    "jsonRead":[
+                {
+                "id": "1",
+                "title": "Demo 1",
+                "Summary": "in summary, there is no clear case for one tax system compared to another",
+                "attatchmentFiles":[{
+                                    "atta":"https://www.cs.uaf.edu/~cs331/group1/ObjectiveC.ppt"
+                                    },{
+                                    "atta":"https://www.tutorialspoint.com/objective_c/objective_c_tutorial.pdf"
+                                    }]
+                },
+                {
+                "id": "2",
+                "title": "Demo 2",
+                "Summary": "A summary is a summary produced to show a teacher that you have read and understood something. It is common in many 100 and 200 level classes to get assignments that ask you to read a certain number of articles and summarize them. This is also a very common type of writing assignment in graduate school.",
+                "attatchmentFiles":[{
+                                    "atta":"https://www.tutorialspoint.com/objective_c/objective_c_tutorial.pdf"
+                                    }]
+                }
+                
+                
+                ]
+    
+}
+
